@@ -1,1 +1,1 @@
-# Sharing_past_project
+The "Past Project Showcase" folder is a curated collection of my previous projects, carefully organized and shared to provide a comprehensive overview of my past work. Within this folder, you will find a diverse range of completed projects that highlight my skills, expertise, and achievements.
