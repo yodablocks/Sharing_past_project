@@ -6,7 +6,7 @@ import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 import "@openzeppelin/contracts/math/SafeMath.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 
-interface IAntiBot {
+interface IPAntiBot {
   function setTokenOwner(address owner) external;
 
   function onPreTransferCheck(
