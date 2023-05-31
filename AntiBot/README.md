@@ -13,6 +13,7 @@ contract MyToken {
     ... omitted for clarity
 
     // Create an instance of the AntiBot variable from the provided address
+    
 <code>+   AntiBot = IPAntiBot(AntiBot_);</code>
     // Register the deployer to be the token owner with AntiBot. You can
     // later change the token owner in the AntiBot contract
