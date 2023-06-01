@@ -9,3 +9,7 @@ To extend the Ethereum EVM bytecode disassembler to support more opcodes, you ca
 In this example, I've added support for four additional opcodes: CALLDATALOAD, CALLDATASIZE, CALLDATACOPY, and SLOAD. You can add more opcodes following the same pattern by appending elif conditions and updating the index accordingly.
 
 Remember to consult the <a href="https://github.com/ethereum/yellowpaper" rel="nofollow">Ethereum Yellow Paper</a> or other EVM documentation to ensure that you're using the correct opcodes and handling them appropriately in your disassembler.
+
+-----------
+
+
