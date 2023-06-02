@@ -8,7 +8,8 @@ So you've worked your way through our previous lessons. Awesome! This means you'
 
 But an important piece of the puzzle is still missing.
 
-That's right... you still have to learn how to <b style='color:green'>deploy a smart contract </b>.
+That's right... you still have to learn how to \textcolordeploy a smart contract.
+\textcolor{darkgray}{workaround \ found \ by \ Dassalem \ Mohammed \ Yasser}$
 
 > __Warning__
 
