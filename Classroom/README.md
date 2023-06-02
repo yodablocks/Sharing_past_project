@@ -15,11 +15,18 @@ $$\int_{a}^{b} x^2 \,dx \$$
 
 $$\lim_{x\to\infty} f(x) \$$
 
+$$\oint_V f(s) \,ds$$
+
 ---
+**Euler's identity**
+
+$$e^{i\pi}+1=0$$
+
+---
+**Fourier transform**
 
 $$\hat{f} (\xi)=\int_{-\infty}^{\infty}f(x)e^{-2\pi ix\xi}dx$$
 
 ---
 
-$$A^{-1}=\frac{1}{ad-bc}\begin{bmatrix}d&-b\\-c&a \end{bmatrix}$$
 
