@@ -12,7 +12,7 @@ Curious about how does the bytecode look like? Let's take a look:
 "0x60806040526010600155600154600a0a6002556201518060035566038d7ea4c6800060085560006009556046600a55336000806101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff1..."
 ```
 
-As you can see, a human is about as likely to be able to read bytecode as a real life zombie!
+As you can see, a human is about as likely to be able to read bytecode a fish is likely to solve complex mathematical equations !
 
 ## Using the Solidity Compiler
 
@@ -42,22 +42,22 @@ Why is this important?
 
 Well, making a function `pure` or `view` saves us gas. Since these functions are not going to modify the state of the blockchain, there is no need for miners to execute them. To put it in a few words, `pure` and `view` functions can be `call`ed for free.
 
-## CryptoZombies- The Game
+## CryptoFish- The Game
 
-Remember, we've embedded our logic in a smart contract called `ZombieOwnership.sol`.
+Remember, we've embedded our logic in a smart contract called `FishOwnership.sol`.
 
 Hmmm... not a great name for a game.
 
 Fortunately, this isn't a problem. We can use inheritance to create a smart contract with the same actions and features with whatever name we choose.
 
-Let's create a new smart contract named `CryptoZombies` that inherits from `ZombieOwnership.sol`:
+Let's create a new smart contract named `CryptoFish` that inherits from `FishOwnership.sol`:
 
 ```
 pragma solidity ^0.4.24;
 
-import "./zombieownership.sol";
+import "./fishownership.sol";
 
-contract CryptoZombies is ZombieOwnership
+contract CryptoFish is FishOwnership
     {
 
     }
@@ -69,15 +69,15 @@ Next, we copied all our smart contracts into the `./contracts` folder. Now the
 .
 ├── contracts
     ├── Migrations.sol
-    ├── CryptoZombies.sol
+    ├── CryptoFish.sol
     ├── erc721.sol
     ├── ownable.sol
     ├── safemath.sol
-    ├── zombieattack.sol
-    ├── zombiefactory.sol
-    ├── zombiefeeding.sol
-    ├── zombiehelper.sol
-    ├── zombieownership.sol
+    ├── fishattack.sol
+    ├── fishfactory.sol
+    ├── fishfeeding.sol
+    ├── fishhelper.sol
+    ├── fishownership.sol
 ├── migrations
 └── test
 ```
