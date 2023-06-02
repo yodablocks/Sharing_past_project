@@ -10,7 +10,7 @@ But an important piece of the puzzle is still missing.
 
 That's right... you still have to learn how to a smart contract.
 
-\textcolor{darkgray}{workaround \ found \ by \ Dassalem \ Mohammed \ Yasser}$
+$\textcolor{olive}{\TeX} \ \textcolor{darkgray}{workaround \ found \ by \ Dassalem \ Mohammed \ Yasser}$
 
 > __Warning__
 
