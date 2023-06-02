@@ -2,7 +2,7 @@
 
 # Chapter 1: Introduction
 
-If you're new to **CryptoZombies**, it's highly recommended that you go over the first six lessons before starting this one. Please take the time to get familiar with writing a smart contract. Otherwise, it will be quite hard to follow this lesson.
+If you're new to **ADVANCE SOLIDITY**, it's highly recommended that you go over the first six lessons before starting this one. Please take the time to get familiar with writing a smart contract. Otherwise, it will be quite hard to follow this lesson.
 
 ## The Missing Piece
 
