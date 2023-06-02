@@ -2,7 +2,7 @@
 
 # Chapter 1: Introduction
 
-If you're new to **ADVANCE SOLIDITY**, it's highly recommended that you go over the first six lessons before starting this one. Please take the time to get familiar with writing a smart contract. Otherwise, it will be quite hard to follow this lesson.
+If you're new to our classroom, it's highly recommended that you go over the first six lessons before starting this one. Please take the time to get familiar with writing a smart contract. Otherwise, it will be quite hard to follow this lesson.
 
 ## The Missing Piece
 
@@ -23,13 +23,13 @@ But what tools do **Solidity** developers use?
 * easy smart contract compilation
 * automated ABI generation
 * integrated smart contract testing - there's even support for **Mocha** and **Chai**!
-* support for multiple networks - code can be deployed to Rinkeby, **_Ethereum_** or even to **_Loom_**. We'll walk you through this later😉
+* support for multiple networks - code can be deployed to Rinkeby or **_Ethereum_**.
 
 Provided that `npm` and `node` have been installed on your computer, we'll want you to install **Truffle** and make it available globally.
 
 # Put It to the Test
 
-We'll start with the basics. Fire up a new terminal window, create a directory called `CryptoZombies`, and `cd` into it.
+We'll start with the basics. Fire up a new terminal window, create a directory called `CryptoSol`, and `cd` into it.
 
 1. Now, let's install **Truffle** and make it available globally.
     
