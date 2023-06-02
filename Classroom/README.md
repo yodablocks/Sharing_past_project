@@ -19,3 +19,7 @@ $$\lim_{x\to\infty} f(x) \$$
 
 $$\hat{f} (\xi)=\int_{-\infty}^{\infty}f(x)e^{-2\pi ix\xi}dx$$
 
+---
+
+$$A^{-1}=\frac{1}{ad-bc}\begin{bmatrix}d&-b\\-c&a \end{bmatrix}$$
+
