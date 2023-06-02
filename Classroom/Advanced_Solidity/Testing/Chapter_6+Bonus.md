@@ -48,7 +48,7 @@ Then, `Truffle` will take care of everything. That's pretty sweet, isn't it?
 We'll continue fleshing out this function in the next chapter!
 
 ---
->___BONUS
+> **Warning** 
 
 ### 🐠🐠Here be... fish of every kind!!!🐠🐠
 
