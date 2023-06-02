@@ -68,4 +68,4 @@ And we can check if Alice owns a fish like this:
 expect(fishOwner).to.equal(alice);
 ```
 
-Replace all occurences of `assert.equal` with `expect`. We've left a bunch of comments in the code to make them easy to find.
+* Replace all occurences of `assert.equal` with `expect`. We've left a bunch of comments in the code to make them easy to find.
