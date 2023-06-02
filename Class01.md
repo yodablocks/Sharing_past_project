@@ -16,3 +16,13 @@ Now, if you have a background in front-end development, you are probably well ac
 
 But what tools do **Solidity** developers use?
 
+## Truffle
+
+**_Truffle_** is the most popular blockchain development framework for good reason - it's packed with lots of useful features:
+
+- easy smart contract compilation
+- automated ABI generation
+- integrated smart contract testing - there's even support for **Mocha** and **Chai**!
+- support for multiple networks - code can be deployed to Rinkeby, **_Ethereum_** or even to **_Loom_**. We'll walk you through this later😉
+
+Provided that `npm` and `node` have been installed on your computer, we'll want you to install **Truffle** and make it available globally.
