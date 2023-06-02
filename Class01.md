@@ -10,7 +10,7 @@ So you've worked your way through our previous lessons. Awesome! This means you'
 
 But an important piece of the puzzle is still missing.
 
-That's right... you still have to learn how to $\normal\textcolor{rgb(59 130 246 / 0.5)}{deploy \ a \ smart \ contract}$.
+That's right... you still have to learn how to deploy a smart contract.
 
 Now, if you have a background in front-end development, you are probably well accustomed to the multitude of tools like _Webpack, Gulp, or Browserify_ that make a developer's life simpler.
 
@@ -20,9 +20,9 @@ But what tools do **Solidity** developers use?
 
 **_Truffle_** is the most popular blockchain development framework for good reason - it's packed with lots of useful features:
 
-- easy smart contract compilation
-- automated ABI generation
-- integrated smart contract testing - there's even support for **Mocha** and **Chai**!
-- support for multiple networks - code can be deployed to Rinkeby, **_Ethereum_** or even to **_Loom_**. We'll walk you through this later😉
+* easy smart contract compilation
+* automated ABI generation
+* integrated smart contract testing - there's even support for **Mocha** and **Chai**!
+* support for multiple networks - code can be deployed to Rinkeby, **_Ethereum_** or even to **_Loom_**. We'll walk you through this later😉
 
 Provided that `npm` and `node` have been installed on your computer, we'll want you to install **Truffle** and make it available globally.
