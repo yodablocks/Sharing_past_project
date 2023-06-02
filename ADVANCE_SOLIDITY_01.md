@@ -26,3 +26,15 @@ But what tools do **Solidity** developers use?
 * support for multiple networks - code can be deployed to Rinkeby, **_Ethereum_** or even to **_Loom_**. We'll walk you through this later😉
 
 Provided that `npm` and `node` have been installed on your computer, we'll want you to install **Truffle** and make it available globally.
+
+# Put It to the Test
+
+We'll start with the basics. Fire up a new terminal window, create a directory called `CryptoZombies`, and `cd` into it.
+
+1. Now, let's install **Truffle** and make it available globally.
+    
+    > Note: Here's how you can use `npm` to install a package and make it available globally:
+    
+    ```
+    npm install package_name -g
+    ```
