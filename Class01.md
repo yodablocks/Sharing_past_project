@@ -15,7 +15,7 @@ So you've worked your way through our previous lessons. Awesome! This means you'
 
 But an important piece of the puzzle is still missing.
 
-That's right... you still have to learn how to @@ **_deploy a smart contract_**.
+That's right... you still have to learn how to @@ **_deploy a smart contract_** @@.
 
 Now, if you have a background in front-end development, you are probably well accustomed to the multitude of tools like _Webpack, Gulp, or Browserify_ that make a developer's life simpler.
 
