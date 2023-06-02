@@ -47,5 +47,5 @@ _Truffle_ provides support for tests written in _JavaScript_ and _Solidity_�
 
 It is best practice to create a separate test file for each contract and give it the name of the smart contract. This makes managing your tests simpler in the long run, especially as your project grows and changes.
 
-1. In the terminal to the right, run `touch test/CryptoFishs.js`.
+1. In the terminal to the right, run `touch test/CryptoFish.js`.
 
