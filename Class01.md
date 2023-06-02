@@ -10,7 +10,7 @@ So you've worked your way through our previous lessons. Awesome! This means you'
 
 But an important piece of the puzzle is still missing.
 
-That's right... you still have to learn how to $\b\textcolor{cyan}{deploy \ a \ smart \ contract}$.
+That's right... you still have to learn how to ** $\textcolor{darkblue}{deploy \ a \ smart \ contract}$ **.
 
 Now, if you have a background in front-end development, you are probably well accustomed to the multitude of tools like _Webpack, Gulp, or Browserify_ that make a developer's life simpler.
 
