@@ -1,1 +1,5 @@
-Deploying Ethereum DApps with Truffle will walk you through the process of deploying your smart contracts with Truffle.
+* **Deploying**
+* **Testing**
+* **Build an Oracle part 1**
+* **Build an Oracle part 2**
+* **Build an Oracle part 3**
