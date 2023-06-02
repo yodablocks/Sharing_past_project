@@ -10,6 +10,8 @@ But an important piece of the puzzle is still missing.
 
 That's right... you still have to learn how to <b style='color:green'>deploy a smart contract </b>.
 
+> __Warning__
+
 Now, if you have a background in front-end development, you are probably well accustomed to the multitude of tools like _Webpack, Gulp, or Browserify_ that make a developer's life simpler.
 
 But what tools do **Solidity** developers use?
