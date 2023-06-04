@@ -16,7 +16,7 @@ Initially, this might seem like a daunting task 🤯. However, by breaking it do
 
 We understand that visuals can sometimes be more helpful than words alone, so here's a straightforward diagram illustrating how this process operates:
 
-<img src="https://blog.chain.link/wp-content/uploads/2020/11/chainlink-diagram.png" alt="Eth Price Oracle Overview" width="469">
+<img src="https://blog.irismetrics.xyz/wp-content/uploads/2023/06/EthPriceOracleOverview.png" alt="Eth Price Oracle Overview" width="469">
 
 Let this sink in before you read on.
 
