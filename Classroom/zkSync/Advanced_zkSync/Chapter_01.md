@@ -1,4 +1,4 @@
-# Chapter 2: Work with tokens
+# Chapter 1: Intro
 
 By completing Lesson 17, you got a good grasp of the basic functions and concepts of zkSync. Now you're going to modify the Node.js applications you've created so that Alice could pay Bob using ERC20 tokens. In this tutorial, we are going to use USDT, a stablecoin pegged against the U.S. dollar, but your application can use any ERC20 token supported by the protocol.
 > 👉🏻For the full list of supported tokens, see the <a href="https://rinkeby.zkscan.io/explorer/tokens" target="_blank">supported tokens on Rinkeby</a> page.
